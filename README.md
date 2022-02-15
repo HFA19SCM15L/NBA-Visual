@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Alt text]()
+![Alt text](https://github.com/HFA19SCM15L/NBA-Visual/blob/master/demo.png)
 
 ## Available Scripts
 
